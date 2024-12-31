@@ -1,0 +1,6 @@
+﻿Modelo; Valor a pagar ;Tipo Atención ;Fecha Ingreso;Estado Atención;Consulta;;Fecha Consulta;Especialidad;Esquema;Movimiento;Fecha Movimiento
+Evento; 2,000 ;Consulta Externa;02/01/2023;Abierto;1977895;si;2/01/2023;Ortopedia y Traumatología;Consulta Primera Vez Medicina Especializada;;
+Evento; 2,000 ;Consulta Externa;03/01/2023;Abierto;1978763;si;3/01/2023;Dolor Y Cuidados Paliativos;Consulta Primera Vez Medicina Especializada;;
+Evento; 2,000 ;Consulta Externa;03/01/2023;Abierto;1979638;si;3/01/2023;Neurologia;Consulta Primera Vez Medicina Especializada;;
+Evento; 2,000 ;Consulta Externa;03/01/2023;Abierto;1985490;si;6/01/2023;Neurologia;Consulta de Control Medicina Especializada;;
+Evento; 2,000 ;Consulta Externa;04/01/2023;Abierto;1981943;si;4/01/2023;Ortopedia y Traumatología;Consulta Primera Vez Medicina Especializada;;
